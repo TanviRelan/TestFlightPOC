@@ -82,6 +82,7 @@
 		04B49BE11C27B698009CA021 /* AnimationComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B49BE01C27B698009CA021 /* AnimationComponent.swift */; };
 		04C86AA91C2767F5001E0AB7 /* MainMenuState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C86AA81C2767F5001E0AB7 /* MainMenuState.swift */; };
 		04C86AAB1C276817001E0AB7 /* TutorialState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C86AAA1C276817001E0AB7 /* TutorialState.swift */; };
+		84EB411E1EE7ED7A00A0B62B /* flappyfelipe.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84EB411D1EE7ED7A00A0B62B /* flappyfelipe.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -132,6 +133,7 @@
 		04B49BE01C27B698009CA021 /* AnimationComponent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimationComponent.swift; sourceTree = "<group>"; };
 		04C86AA81C2767F5001E0AB7 /* MainMenuState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainMenuState.swift; sourceTree = "<group>"; };
 		04C86AAA1C276817001E0AB7 /* TutorialState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialState.swift; sourceTree = "<group>"; };
+		84EB411D1EE7ED7A00A0B62B /* flappyfelipe.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = flappyfelipe.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +169,7 @@
 		042BB44A1BE1181D0036B423 = {
 			isa = PBXGroup;
 			children = (
+				84EB411D1EE7ED7A00A0B62B /* flappyfelipe.plist */,
 				042BB4551BE1181D0036B423 /* Flappy Felipe */,
 				049C553F1C2A0FBC004943C2 /* Flappy Felipe TV */,
 				042BB4541BE1181D0036B423 /* Products */,
@@ -379,6 +382,7 @@
 				042BB4CF1BE11FB20036B423 /* sprites.atlas in Resources */,
 				042BB4E01BE11FB20036B423 /* hitGround.wav in Resources */,
 				042BB4DD1BE11FB20036B423 /* ding.wav in Resources */,
+				84EB411E1EE7ED7A00A0B62B /* flappyfelipe.plist in Resources */,
 				042BB4651BE1181D0036B423 /* LaunchScreen.storyboard in Resources */,
 				042BB4DF1BE11FB20036B423 /* flapping.wav in Resources */,
 				042BB4621BE1181D0036B423 /* Assets.xcassets in Resources */,
